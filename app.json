@@ -24,7 +24,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally or https://t.me/DominatorStringGeneratorBot",
+      "description": "Get this value by running python3 telesetup.py locally or https://replit.com/@dominator454/stringforbot?v=1",
       "value": ""
     },
     "TG_BOT_TOKEN": {
