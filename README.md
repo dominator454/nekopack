@@ -8,6 +8,10 @@ To be safe fork this repo and then press deploy button from the forked repo
 
 Fork Deploy is highly recommended
 
+# Generate String Through Termux
+
+[![Termux cmd](https://telegra.ph/Guide-to-generate-String-Session-using-Termux-04-17)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## credits
