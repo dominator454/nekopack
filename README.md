@@ -10,7 +10,7 @@ Fork Deploy is highly recommended
 
 ## `Scan QR Code For Session`
 
-[![Alena-MD](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+[![DOMINATORxBOT](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@dominator454/stringforbot?v=1)
 
 # Generate String Through Termux
 
