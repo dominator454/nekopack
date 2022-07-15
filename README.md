@@ -8,6 +8,10 @@ To be safe fork this repo and then press deploy button from the forked repo
 
 Fork Deploy is highly recommended
 
+## `Scan QR Code For Session`
+
+[![Alena-MD](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+
 # Generate String Through Termux
 
 [Termux cmd](https://telegra.ph/Guide-to-generate-String-Session-using-Termux-04-17)
